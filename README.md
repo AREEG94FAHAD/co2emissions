@@ -1,4 +1,4 @@
-## $$co_{2} emissions$$
+## $$co_{2 } emissions$$
 
 
 In this report, a machine learning regression system is designed and implemented to compute the Co<sub>2</sub> emissions of vehicles.
